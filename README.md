@@ -1,11 +1,11 @@
 # Hi there!  I'm VinuSre
 
-## 🎓 About Me
+##  About Me
 
 
 ## 🚀 Featured Projects
 
-### 📚 [Online-Library](https://github.com/VinuSre/Online-Library)
+###  [Online-Library](https://github.com/VinuSre/Online-Library)
 A Python-based library management system with both backend API and GUI client.
 
 **Tech Stack:**
@@ -20,7 +20,7 @@ A Python-based library management system with both backend API and GUI client.
 - Persistent data storage
 
 
-## 📫 Let's Connect
+##  Let's Connect
 Feel free to explore my repositories!
 
 
