@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm VinuSre
 
-<!--
-**VinuSre/VinuSre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a student passionate about software development and engineering, currently exploring full-stack development with Python and Flask.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 [Online-Library](https://github.com/VinuSre/Online-Library)
+A Python-based library management system with both backend API and GUI client.
+
+**Tech Stack:**
+- **Backend:** Flask REST API
+- **Frontend:** Tkinter GUI
+- **Storage:** JSON-based persistence
+
+**Features:**
+- Add, view, update, and delete media items
+- RESTful API for library operations
+- User-friendly desktop interface
+- Persistent data storage
+
+## 💻 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out for collaboration opportunities!
+
+---
+
+*Building one project at a time* 🚀
