@@ -21,6 +21,6 @@ A Python-based library management system with both backend API and GUI client.
 
 
 ## 📫 Let's Connect
-Feel free to explore my repositories and reach out for collaboration opportunities!
+Feel free to explore my repositories!
 
 
