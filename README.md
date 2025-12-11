@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm VinuSre
+# Hi there!  I'm VinuSre
 
 ## 🎓 About Me
 
